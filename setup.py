@@ -31,9 +31,9 @@ PATH = pathlib.Path(__file__).absolute().parent
 
 REQUIREMENTS = []
 
-with open(PATH / "docs" / "source" / "conf.py") as fp:
+with open(PATH / "farmacias" / "__init__.py") as fp:
     for line in fp.readlines():
-        if line.startswith("release = "):
+        if line.startswith("__version__ = "):
             VERSION = line.split("=", 1)[-1].replace('"', "").strip()
             break
 
@@ -53,7 +53,7 @@ funding = "https://paypal.me/juniors90"
 # =============================================================================
 
 setup(
-    name="PymaciesArg",
+    name="Farmacias",
     version=VERSION,
     description="An extension that registers all pharmacies in Argentina.",  # noqa: E501
     long_description=LONG_DESCRIPTION,
@@ -61,7 +61,7 @@ setup(
     author="Ferreira Juan David",
     author_email="juandavid9a0@gmail.com",
     url="https://github.com/juniors90/distribucion-geografica-de-farmacias-en-argentina",
-    packages=[""],
+    packages=["farmacias"],
     include_package_data=True,
     platforms="any",
     license="The MIT License",
