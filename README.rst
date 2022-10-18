@@ -23,10 +23,11 @@ Proyecto de visualización de información nacional presentado en el Concurso Co
 Links
 -----
 
-- [Documentation](https://distribucion-geografica-de-farmacias-en-argentina.readthedocs.io)
-- [Changelog](https://github.com/juniors90/distribucion-geografica-de-farmacias-en-argentina/blob/main/CHANGELOG.rst)
+- `Documentation <https://distribucion-geografica-de-farmacias-en-argentina.readthedocs.io>`_
+- `Changelog <https://github.com/juniors90/distribucion-geografica-de-farmacias-en-argentina/blob/main/CHANGELOG.rst>`_
 
-## Autor
+Autor
+-----
 
 - Ferreira, Juan David
 
