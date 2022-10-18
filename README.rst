@@ -1,6 +1,9 @@
 Distribución Geográfica de Farmacias en Argentina
 =================================================
 
+.. image:: https://github.com/juniors90/distribucion-geografica-de-farmacias-en-argentina/actions/workflows/CI.yml/badge.svg
+   :alt: GitHub issues
+   :target: https://github.com/juniors90/distribucion-geografica-de-farmacias-en-argentina/actions
 .. image:: https://img.shields.io/github/issues/juniors90/distribucion-geografica-de-farmacias-en-argentina
    :alt: GitHub issues
    :target: https://github.com/juniors90/distribucion-geografica-de-farmacias-en-argentina/issues
