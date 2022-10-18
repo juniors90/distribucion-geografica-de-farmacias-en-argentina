@@ -58,4 +58,4 @@ Licencia
 
 `Distribución Geográfica de Farmacias en Argentina` es software libre  que
 puede ser redistribuido  y/o modificado bajo los terminos de la lisencia MIT.
-Para más información, ver [LICENSE](https://github.com/juniors90/distribucion-geografica-de-farmacias-en-argentina/blob/main/LICENSE).
+Para más información, ver `LICENSE <https://github.com/juniors90/distribucion-geografica-de-farmacias-en-argentina/blob/main/LICENSE>`_.

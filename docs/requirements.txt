@@ -1,5 +1,5 @@
-ipykernel>=6.16.0
-ipython>=8.5.0
+ipykernel
+ipython
 matplotlib==3.6.1
 matplotlib-inline==0.1.6
 nbsphinx==0.8.7
